@@ -8,7 +8,7 @@ A website that offers SEO optimizations and branding-quality.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://glgberat.github.io/horiseon/
 
 ## Screenshots
 https://user-images.githubusercontent.com/93719963/146664587-d2b6a6b7-035a-42a2-be7a-4a86327a130e.png
